@@ -21,18 +21,17 @@ Create the linear regression model and fit.
 <br>
 Predict the CO2 emission of a car where the weight is 2300kg, and the volume is 1300cm cube.
 ## Program:
+
+
+
+
 developed by:SUJITH KRISHNA C
 REG NO:25018114
 <img width="875" height="280" alt="image" src="https://github.com/user-attachments/assets/5b8d6b99-3fd2-4931-82d1-cf06f32c875d" />
 
-```
 
 
 
-
-
-
-```
 ## Output:
 
 ### Insert your output
